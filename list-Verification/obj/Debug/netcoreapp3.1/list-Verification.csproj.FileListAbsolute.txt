@@ -1,0 +1,13 @@
+C:\Users\jessi\source\repos\list-Verification\list-Verification\bin\Debug\netcoreapp3.1\list-Verification.exe
+C:\Users\jessi\source\repos\list-Verification\list-Verification\bin\Debug\netcoreapp3.1\list-Verification.deps.json
+C:\Users\jessi\source\repos\list-Verification\list-Verification\bin\Debug\netcoreapp3.1\list-Verification.runtimeconfig.json
+C:\Users\jessi\source\repos\list-Verification\list-Verification\bin\Debug\netcoreapp3.1\list-Verification.runtimeconfig.dev.json
+C:\Users\jessi\source\repos\list-Verification\list-Verification\bin\Debug\netcoreapp3.1\list-Verification.dll
+C:\Users\jessi\source\repos\list-Verification\list-Verification\bin\Debug\netcoreapp3.1\list-Verification.pdb
+C:\Users\jessi\source\repos\list-Verification\list-Verification\obj\Debug\netcoreapp3.1\list-Verification.csproj.AssemblyReference.cache
+C:\Users\jessi\source\repos\list-Verification\list-Verification\obj\Debug\netcoreapp3.1\list-Verification.AssemblyInfoInputs.cache
+C:\Users\jessi\source\repos\list-Verification\list-Verification\obj\Debug\netcoreapp3.1\list-Verification.AssemblyInfo.cs
+C:\Users\jessi\source\repos\list-Verification\list-Verification\obj\Debug\netcoreapp3.1\list-Verification.csproj.CoreCompileInputs.cache
+C:\Users\jessi\source\repos\list-Verification\list-Verification\obj\Debug\netcoreapp3.1\list-Verification.dll
+C:\Users\jessi\source\repos\list-Verification\list-Verification\obj\Debug\netcoreapp3.1\list-Verification.pdb
+C:\Users\jessi\source\repos\list-Verification\list-Verification\obj\Debug\netcoreapp3.1\list-Verification.genruntimeconfig.cache
